@@ -16,6 +16,5 @@ A summary of the data collected: number of attacks, number of malware samples, e
   * Port 5060
   * Protocol: SipSession (a voice and video call application in private phone networks)
   * Target: dionaea
-  
-Any unresolved questions raised by the data collected:
-  *
+
+Because there have been no attacks, a session.json data file is unavailable(0 records available). 
